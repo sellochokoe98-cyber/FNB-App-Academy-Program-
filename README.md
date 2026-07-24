@@ -1,58 +1,53 @@
-# 💻 Software Development Portfolio
+# 💻 FNB App Academy Program
 
-Welcome to my Software Development Portfolio. This repository showcases my journey through the **FNB App Academy**, where I am building practical software development skills using Python and modern application development tools.
+Welcome to my **FNB App Academy Program** repository.
 
-## 📚 Repository Structure
+This repository contains the projects, coding exercises, and practical assignments I completed as part of the FNB App Academy. It showcases my progress in Python programming, problem-solving, and software development fundamentals.
 
-### 🐍 Python Fundamentals
-Learned and applied the core concepts of Python programming.
+## 🎯 Objectives
 
-Projects include:
-- Student Information System
-- Calculator
-- Grade Classifier
-- Contact Book
-- ATM Simulator
-- Phone Directory
-- High Score Tracker
-
-### ⚙️ Software Engineering Concepts
-Projects demonstrating:
-- Object-Oriented Programming (OOP)
-- Functions
-- File Handling
-- Error Handling
-- Data Structures
-- Problem Solving
-- Git & GitHub
-
-### 📱 Mobile App Development
-Building mobile applications using:
-- Kivy
-- Multi-Screen Applications
-- KV Language
-- UI Design
-- API Integration
-
-### 🚀 Final Capstone Project
-A complete application developed during the FNB App Academy, demonstrating software design, development, testing, and deployment.
+- Learn Python programming
+- Develop problem-solving skills
+- Build command-line applications
+- Understand programming fundamentals
+- Write clean and reusable code
 
 ## 🛠️ Technologies
 
 - Python
-- Kivy
+- Jupyter Notebook
+- VS Code
 - Git
 - GitHub
-- VS Code
-- APIs
 
-## 🎯 Goal
+## 📚 Course Content
 
-To build practical software development skills and create real-world applications while completing the FNB App Academy.
+- Python Basics
+- Variables & Data Types
+- Strings
+- Numbers
+- Conditional Statements
+- Loops
+- Functions
+- Dictionaries
+- File Handling
+- Problem Solving
 
-## 👨‍💻 Author
+## 🚀 Projects
 
-**Sello Chokoe**
+- Student Grade Classifier
+- Secure Password Hint Tool
+- High Score Tracker
+- Smart ATM Simulator
+- Phone Directory Search
+- Calculator
+- Contact Book
+- And more...
+
+## 👨‍💻 About Me
+
+I am an aspiring **Software Developer** and **Data Analyst** with experience in Python, SQL, Excel, Power BI, and data visualization. I enjoy building practical solutions and continuously improving my programming skills.
 
 ---
-*This repository is continuously updated as I complete new modules and projects during the FNB App Academy 
+
+**Thank you for visiting my repository!**
